@@ -1,0 +1,456 @@
+[17:36:14] [ServerMain/INFO]: Building unoptimized datafixer
+[17:36:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:36:18] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[17:36:23] [ServerMain/INFO]: Loaded 7 recipes
+[17:36:28] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[17:36:28] [Server thread/INFO]: Loading properties
+[17:36:29] [Server thread/INFO]: This server is running CraftBukkit version 3608-Spigot-6198b5a-b5aa0be (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
+[17:36:29] [Server thread/INFO]: Debug logging is disabled
+[17:36:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:36:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:36:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:36:29] [Server thread/INFO]: Generating keypair
+[17:36:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:30] [Server thread/INFO]: Using default channel type
+[17:36:30] [Server thread/INFO]: Preparing level "world"
+[17:36:30] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:36:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:36:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:36:30] [Server thread/INFO]: Simulation Distance: 10
+[17:36:30] [Server thread/INFO]: View Distance: 10
+[17:36:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:36:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:36:30] [Server thread/INFO]: Mob Spawn Range: 6
+[17:36:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[17:36:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[17:36:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:36:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:36:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[17:36:30] [Server thread/INFO]: Max TNT Explosions: 100
+[17:36:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:36:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:36:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:36:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:36:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:36:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:36:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:36:45] [Server thread/INFO]: Simulation Distance: 10
+[17:36:45] [Server thread/INFO]: View Distance: 10
+[17:36:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:36:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:36:45] [Server thread/INFO]: Mob Spawn Range: 6
+[17:36:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[17:36:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[17:36:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:36:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:36:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[17:36:45] [Server thread/INFO]: Max TNT Explosions: 100
+[17:36:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:36:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:36:45] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:36:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:36:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:36:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:36:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:36:47] [Server thread/INFO]: Simulation Distance: 10
+[17:36:47] [Server thread/INFO]: View Distance: 10
+[17:36:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:36:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:36:47] [Server thread/INFO]: Mob Spawn Range: 6
+[17:36:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[17:36:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[17:36:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17:36:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:36:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[17:36:47] [Server thread/INFO]: Max TNT Explosions: 100
+[17:36:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:36:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:36:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:36:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:36:49] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:36:49] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:36:49] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:36:49] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:36:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:36:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:36:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:36:51] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[17:36:51] [Worker-Main-13/INFO]: Preparing spawn area: 2%
+[17:36:52] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[17:36:52] [Worker-Main-12/INFO]: Preparing spawn area: 5%
+[17:36:53] [Worker-Main-10/INFO]: Preparing spawn area: 7%
+[17:36:53] [Worker-Main-5/INFO]: Preparing spawn area: 10%
+[17:36:54] [Worker-Main-14/INFO]: Preparing spawn area: 14%
+[17:36:54] [Worker-Main-15/INFO]: Preparing spawn area: 17%
+[17:36:55] [Worker-Main-9/INFO]: Preparing spawn area: 22%
+[17:36:55] [Worker-Main-12/INFO]: Preparing spawn area: 24%
+[17:36:56] [Worker-Main-14/INFO]: Preparing spawn area: 29%
+[17:36:56] [Worker-Main-4/INFO]: Preparing spawn area: 32%
+[17:36:57] [Worker-Main-8/INFO]: Preparing spawn area: 38%
+[17:36:57] [Worker-Main-7/INFO]: Preparing spawn area: 42%
+[17:36:58] [Worker-Main-11/INFO]: Preparing spawn area: 46%
+[17:36:58] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[17:36:59] [Worker-Main-11/INFO]: Preparing spawn area: 55%
+[17:36:59] [Worker-Main-5/INFO]: Preparing spawn area: 58%
+[17:37:00] [Worker-Main-10/INFO]: Preparing spawn area: 65%
+[17:37:00] [Worker-Main-8/INFO]: Preparing spawn area: 68%
+[17:37:01] [Worker-Main-9/INFO]: Preparing spawn area: 72%
+[17:37:01] [Worker-Main-13/INFO]: Preparing spawn area: 77%
+[17:37:02] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[17:37:02] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[17:37:03] [Worker-Main-4/INFO]: Preparing spawn area: 92%
+[17:37:03] [Worker-Main-8/INFO]: Preparing spawn area: 97%
+[17:37:03] [Server thread/INFO]: Time elapsed: 16112 ms
+[17:37:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:37:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:37:04] [Worker-Main-8/INFO]: Preparing spawn area: 88%
+[17:37:04] [Worker-Main-11/INFO]: Preparing spawn area: 88%
+[17:37:05] [Worker-Main-14/INFO]: Preparing spawn area: 88%
+[17:37:05] [Worker-Main-11/INFO]: Preparing spawn area: 88%
+[17:37:06] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[17:37:06] [Worker-Main-11/INFO]: Preparing spawn area: 89%
+[17:37:07] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[17:37:07] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[17:37:08] [Worker-Main-3/INFO]: Preparing spawn area: 98%
+[17:37:08] [Server thread/INFO]: Time elapsed: 4729 ms
+[17:37:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:37:08] [Server thread/INFO]: Preparing spawn area: 0%
+[17:37:09] [Worker-Main-7/INFO]: Preparing spawn area: 88%
+[17:37:09] [Worker-Main-14/INFO]: Preparing spawn area: 94%
+[17:37:09] [Server thread/INFO]: Time elapsed: 1119 ms
+[17:37:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:37:09] [Server thread/INFO]: Done (39.088s)! For help, type "help"
+[17:39:41] [User Authenticator #1/INFO]: Disconnecting /27.35.207.21:53821: Failed to verify username!
+[17:39:41] [User Authenticator #1/ERROR]: Username 'seerony' tried to join with an invalid session
+[17:39:41] [Server thread/INFO]: /27.35.207.21:53821 lost connection: Failed to verify username!
+[17:39:54] [User Authenticator #2/INFO]: Disconnecting /27.35.207.21:53823: Failed to verify username!
+[17:39:54] [User Authenticator #2/ERROR]: Username 'seerony' tried to join with an invalid session
+[17:39:54] [Server thread/INFO]: /27.35.207.21:53823 lost connection: Failed to verify username!
+[17:43:54] [User Authenticator #3/INFO]: UUID of player redyellow3344 is 12eba087-3af9-4a03-bfd7-f0fa2f77bf17
+[17:43:54] [Server thread/INFO]: redyellow3344 joined the game
+[17:43:54] [Server thread/INFO]: redyellow3344[/175.214.201.112:3495] logged in with entity id 285 at ([world]-152.5, 68.0, 422.5)
+[17:45:09] [User Authenticator #4/INFO]: UUID of player rubynshu is 49c75416-30d6-456b-a439-72aec64a39a7
+[17:45:09] [Server thread/INFO]: rubynshu joined the game
+[17:45:09] [Server thread/INFO]: rubynshu[/39.122.23.67:65358] logged in with entity id 574 at ([world]-149.5, 69.0, 439.5)
+[17:49:55] [Server thread/INFO]: rubynshu issued server command: /ki
+[17:50:06] [Server thread/INFO]: rubynshu issued server command: /kill
+[17:51:15] [Server thread/INFO]: rubynshu issued server command: /tp@redyellow
+[17:51:20] [Server thread/INFO]: redyellow3344 was shot by Skeleton
+[17:51:51] [Server thread/INFO]: redyellow3344 was slain by rubynshu
+[17:51:59] [Server thread/INFO]: rubynshu has made the advancement [Monster Hunter]
+[17:52:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@1502e528[id=<null>,name=WiggedSpore2165,properties={},legacy=false] (/61.82.192.224:13388) lost connection: Disconnected
+[17:52:20] [User Authenticator #5/INFO]: UUID of player WiggedSpore2165 is 48e7b134-5ba2-43ed-bb6a-309014593176
+[17:52:20] [Server thread/INFO]: WiggedSpore2165 joined the game
+[17:52:20] [Server thread/INFO]: WiggedSpore2165[/61.82.192.224:13390] logged in with entity id 1998 at ([world]-147.5, 70.0, 439.5)
+[17:52:20] [Server thread/INFO]: rubynshu was shot by Skeleton
+[17:53:01] [Server thread/INFO]: redyellow3344 was shot by Skeleton
+[17:54:27] [Server thread/INFO]: redyellow3344 was shot by Skeleton
+[17:54:45] [Server thread/INFO]: rubynshu was shot by Skeleton
+[17:55:14] [Server thread/INFO]: redyellow3344 was slain by Spider
+[17:55:30] [Server thread/INFO]: WiggedSpore2165 was slain by Zombie
+[17:55:45] [Server thread/INFO]: rubynshu issued server command: /¤§
+[17:56:03] [Async Chat Thread - #0/INFO]: <rubynshu> ÇØ°¡ ¶°¿À¸£°í ÀÖ¾î
+[17:56:06] [Server thread/INFO]: rubynshu was blown up by Creeper
+[17:56:52] [Server thread/INFO]: WiggedSpore2165 was slain by Zombie
+[17:57:49] [Server thread/INFO]: rubynshu hit the ground too hard
+[17:59:37] [Server thread/INFO]: redyellow3344 hit the ground too hard
+[18:00:16] [Server thread/INFO]: rubynshu issued server command: /tp WiggedSpore2165
+[18:04:30] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:04:37] [Server thread/INFO]: redyellow3344 has made the advancement [Ice Bucket Challenge]
+[18:04:50] [Server thread/INFO]: [Not Secure] [Server] "¾ß"
+[18:05:02] [Server thread/INFO]: [Not Secure] [Server] "op ÇÊ¿ä¿ä ¾øÁö?"
+[18:05:12] [Async Chat Thread - #2/INFO]: <redyellow3344> wnj
+[18:05:16] [Async Chat Thread - #2/INFO]: <rubynshu> ÁÖ ¤Ã
+[18:05:21] [Server thread/INFO]: [Not Secure] [Server] "¼÷Á¦ ´Ù ¸øÇÔ"
+[18:05:23] [Async Chat Thread - #2/INFO]: <rubynshu> ±è¹Ì´ñ
+[18:05:29] [Server thread/INFO]: [Not Secure] [Server] "³ª ÇÐ¿ø °£´Ù"
+[18:05:30] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Stone Age]
+[18:05:43] [Server thread/INFO]: Made rubynshu a server operator
+[18:05:53] [Server thread/INFO]: Made redyellow3344 a server operator
+[18:06:09] [Server thread/INFO]: Made WiggedSpore2165 a server operator
+[18:06:13] [Server thread/INFO]: [Not Secure] [Server] "¤²¤²"
+[18:06:27] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:06:27] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:06:59] [Server thread/INFO]: redyellow3344 has made the advancement [Stone Age]
+[18:09:08] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Monster Hunter]
+[18:09:11] [Server thread/INFO]: rubynshu tried to swim in lava
+[18:09:57] [Server thread/INFO]: rubynshu issued server command: /tp WiggedSpore2165
+[18:09:57] [Server thread/INFO]: [rubynshu: Teleported rubynshu to WiggedSpore2165]
+[18:10:04] [Server thread/INFO]: redyellow3344 issued server command: /clear monster
+[18:10:30] [Server thread/INFO]: rubynshu has made the advancement [Sweet Dreams]
+[18:10:36] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[18:10:36] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[18:11:31] [Server thread/INFO]: rubynshu issued server command: /tp redyellow3344
+[18:11:31] [Server thread/INFO]: [rubynshu: Teleported rubynshu to redyellow3344]
+[18:11:46] [Server thread/INFO]: WiggedSpore2165 has made the advancement [A Seedy Place]
+[18:14:09] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:14:09] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:16:38] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Acquire Hardware]
+[18:17:18] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/7298, l='ServerLevel[world]', x=165.15, y=68.56, z=958.92] died, message: 'Leatherworker was slain by WiggedSpore2165'
+[18:17:27] [Server thread/INFO]: redyellow3344 has made the advancement [Getting an Upgrade]
+[18:18:26] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Isn't It Iron Pick]
+[18:18:52] [Server thread/INFO]: rubynshu has made the advancement [Stone Age]
+[18:19:33] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:19:33] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:20:22] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[18:20:22] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[18:23:40] [Server thread/INFO]: redyellow3344 issued server command: /gamerule keepInventory true
+[18:23:40] [Server thread/INFO]: [redyellow3344: Gamerule keepInventory is now set to: true]
+[18:24:53] [Server thread/INFO]: redyellow3344 issued server command: /weather clear\
+[18:25:05] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:25:05] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:25:24] [Server thread/INFO]: rubynshu issued server command: /tp redyellow3344
+[18:25:24] [Server thread/INFO]: [rubynshu: Teleported rubynshu to redyellow3344]
+[18:27:07] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/7247, l='ServerLevel[world]', x=157.28, y=67.00, z=965.78] died, message: 'Leatherworker was slain by rubynshu'
+[18:30:21] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:30:21] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:30:27] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[18:30:27] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[18:30:35] [Server thread/INFO]: rubynshu was slain by Zombie
+[18:30:56] [Server thread/INFO]: rubynshu issued server command: /tp Wigg¤§ee´ô¤Ã¤Ã¿À'¤±
+[18:31:26] [Server thread/INFO]: rubynshu has made the advancement [Getting an Upgrade]
+[18:32:05] [Server thread/INFO]: rubynshu issued server command: /tp WiggedSpore2165
+[18:32:05] [Server thread/INFO]: [rubynshu: Teleported rubynshu to WiggedSpore2165]
+[18:32:46] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Getting an Upgrade]
+[18:33:00] [Server thread/INFO]: rubynshu fell from a high place
+[18:36:01] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:36:01] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:38:29] [Server thread/INFO]: rubynshu issued server command: /tp WiggedSpore2165
+[18:38:29] [Server thread/INFO]: [rubynshu: Teleported rubynshu to WiggedSpore2165]
+[18:38:29] [Server thread/WARN]: rubynshu moved too quickly! -6.494170333394862,-40.5625,-20.630865327112588
+[18:40:29] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[18:40:29] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[18:41:23] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:41:23] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:41:40] [Server thread/INFO]: rubynshu issued server command: /tp WiggedSpore2165
+[18:41:40] [Server thread/INFO]: [rubynshu: Teleported rubynshu to WiggedSpore2165]
+[18:42:35] [Async Chat Thread - #4/INFO]: <WiggedSpore2165> 5eettt
+[18:43:13] [Server thread/INFO]: rubynshu was blown up by Creeper
+[18:43:37] [Server thread/INFO]: rubynshu issued server command: /tp WiggedSpore2165
+[18:43:37] [Server thread/INFO]: [rubynshu: Teleported rubynshu to WiggedSpore2165]
+[18:45:59] [Server thread/INFO]: rubynshu was slain by WiggedSpore2165
+[18:46:54] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:46:54] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:48:28] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Suit Up]
+[18:49:52] [Server thread/INFO]: rubynshu issued server command: /tp redyellow3344
+[18:49:52] [Server thread/INFO]: [rubynshu: Teleported rubynshu to redyellow3344]
+[18:50:18] [Server thread/INFO]: rubynshu has made the advancement [Acquire Hardware]
+[18:50:56] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[18:50:56] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[18:52:00] [Server thread/INFO]: WiggedSpore2165 fell from a high place
+[18:52:05] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:52:05] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:52:13] [Async Chat Thread - #6/INFO]: <WiggedSpore2165> e
+[18:52:46] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344\
+[18:53:04] [Server thread/INFO]: WiggedSpore2165 issued server command: /tps redyellow3344
+[18:53:09] [Server thread/INFO]: redyellow3344 has made the advancement [A Seedy Place]
+[18:53:55] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp rubynshu
+[18:53:55] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to rubynshu]
+[18:54:21] [Async Chat Thread - #8/INFO]: <WiggedSpore2165> 7ew
+[18:56:15] [Server thread/INFO]: redyellow3344 has made the advancement [Acquire Hardware]
+[18:56:36] [Server thread/INFO]: WiggedSpore2165 fell from a high place
+[18:56:50] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp rubynshu
+[18:56:50] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to rubynshu]
+[18:57:11] [Server thread/INFO]: WiggedSpore2165 fell from a high place
+[18:57:13] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[18:57:13] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[18:57:21] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp rubynshu
+[18:57:21] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to rubynshu]
+[18:57:40] [Server thread/INFO]: WiggedSpore2165 fell from a high place
+[18:57:48] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[18:57:48] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[18:58:22] [Server thread/INFO]: WiggedSpore2165 hit the ground too hard
+[18:58:32] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp rubynshu
+[18:58:32] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to rubynshu]
+[18:58:49] [Server thread/INFO]: rubynshu has made the advancement [A Seedy Place]
+[18:59:26] [Server thread/INFO]: rubynshu has made the advancement [The Parrots and the Bats]
+[19:01:07] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[19:01:07] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[19:01:28] [Server thread/INFO]: WiggedSpore2165 fell from a high place
+[19:01:39] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp rubynshu
+[19:01:39] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to rubynshu]
+[19:02:24] [Server thread/INFO]: rubynshu lost connection: Disconnected
+[19:02:24] [Server thread/INFO]: rubynshu left the game
+[19:02:40] [Server thread/INFO]: redyellow3344 has made the advancement [Sweet Dreams]
+[19:03:01] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:03:01] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:08:10] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:08:10] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:09:14] [Server thread/INFO]: WiggedSpore2165 was slain by Zombie
+[19:09:32] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[19:09:32] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[19:10:44] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[19:10:44] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[19:13:29] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:13:29] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:18:49] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:18:49] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:18:59] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[19:18:59] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[19:24:00] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:24:00] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:25:50] [Server thread/INFO]: redyellow3344 has made the advancement [Isn't It Iron Pick]
+[19:27:38] [Server thread/INFO]: redyellow3344 has made the advancement [Suit Up]
+[19:28:26] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[19:28:26] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[19:29:11] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:29:11] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:34:24] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:34:24] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:38:24] [Server thread/INFO]: redyellow3344 issued server command: /TIME SET DAY
+[19:38:33] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[19:38:33] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[19:39:35] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:39:35] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:44:45] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:44:45] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:46:34] [Server thread/INFO]: redyellow3344 issued server command: /effect give WiggedSpore2165 minecraft:night_vision
+[19:46:34] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to WiggedSpore2165]
+[19:47:11] [Server thread/INFO]: redyellow3344 issued server command: /effect give redyellow3344 minecraft:night_vision
+[19:47:11] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to redyellow3344]
+[19:47:58] [Server thread/INFO]: redyellow3344 issued server command: /effect give WiggedSpore2165 minecraft:night_vision 999999
+[19:47:58] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to WiggedSpore2165]
+[19:48:03] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[19:48:03] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[19:48:43] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[19:48:43] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[19:50:01] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[19:50:01] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[19:51:34] [Server thread/INFO]: redyellow3344 issued server command: /effect give redyellow3344 minecraft:night_vision 999999
+[19:51:34] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to redyellow3344]
+[19:53:29] [Server thread/INFO]: redyellow3344 has made the advancement [Monster Hunter]
+[20:00:07] [Server thread/INFO]: WiggedSpore2165 was blown up by Creeper
+[20:04:44] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:04:44] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:06:25] [Server thread/INFO]: redyellow3344 issued server command: /kill redyellow3344
+[20:06:25] [Server thread/INFO]: redyellow3344 fell out of the world
+[20:06:25] [Server thread/INFO]: [redyellow3344: Killed redyellow3344]
+[20:06:41] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:06:41] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:13:22] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:13:22] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:14:35] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:14:35] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:17:20] [Server thread/INFO]: redyellow3344 issued server command: /effect give WiggedSpore2165 minecraft:night_vision 999999
+[20:17:20] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to WiggedSpore2165]
+[20:18:43] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:18:43] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:23:21] [Server thread/INFO]: WiggedSpore2165 was slain by Zombie
+[20:23:52] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:23:52] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:24:23] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:24:23] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:29:03] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:29:03] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:30:16] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:30:16] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:31:57] [Server thread/INFO]: redyellow3344 issued server command: /effect give WiggedSpore2165 minecraft:night_vision 99999
+[20:31:57] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to WiggedSpore2165]
+[20:34:15] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:34:15] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:34:24] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:34:24] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:38:14] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[20:38:14] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[20:39:23] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:39:23] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:43:49] [Server thread/INFO]: WiggedSpore2165 burned to death
+[20:44:04] [Async Chat Thread - #10/INFO]: <redyellow3344> time set day
+[20:44:08] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[20:44:08] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[20:44:08] [Server thread/WARN]: WiggedSpore2165 moved too quickly! -42.162276313602916,0.0,170.17186331110997
+[20:44:33] [Server thread/INFO]: redyellow3344 issued server command: /effect give WiggedSpore2165 minecraft:night_vision 999999
+[20:44:33] [Server thread/INFO]: [redyellow3344: Applied effect Night Vision to WiggedSpore2165]
+[20:44:41] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:44:41] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:44:53] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:44:53] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:46:29] [Server thread/INFO]: redyellow3344 issued server command: /kill redyellow3344
+[20:46:29] [Server thread/INFO]: redyellow3344 fell out of the world
+[20:46:29] [Server thread/INFO]: [redyellow3344: Killed redyellow3344]
+[20:47:43] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Not Today, Thank You]
+[20:48:23] [Server thread/INFO]: redyellow3344 issued server command: /kill redyellow3344
+[20:48:23] [Server thread/INFO]: redyellow3344 fell out of the world
+[20:48:23] [Server thread/INFO]: [redyellow3344: Killed redyellow3344]
+[20:49:50] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:49:50] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:50:59] [Async Chat Thread - #12/INFO]: <WiggedSpore2165> TW
+[20:54:33] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[20:54:33] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[20:55:03] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[20:55:03] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[20:55:07] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[20:55:07] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[20:55:54] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[20:55:54] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[21:00:13] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[21:00:13] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[21:00:23] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[21:00:23] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[21:01:38] [Server thread/INFO]: WiggedSpore2165 issued server command: /tp redyellow3344
+[21:01:38] [Server thread/INFO]: [WiggedSpore2165: Teleported WiggedSpore2165 to redyellow3344]
+[21:02:39] [Server thread/INFO]: redyellow3344 has made the advancement [Best Friends Forever]
+[21:04:19] [Server thread/INFO]: WiggedSpore2165 has made the advancement [Diamonds!]
+[21:05:34] [Server thread/INFO]: redyellow3344 issued server command: /time set day
+[21:05:34] [Server thread/INFO]: [redyellow3344: Set the time to 1000]
+[21:05:42] [Server thread/INFO]: redyellow3344 issued server command: /weather clear
+[21:05:42] [Server thread/INFO]: [redyellow3344: Set the weather to clear]
+[21:07:18] [Server thread/INFO]: redyellow3344 lost connection: Disconnected
+[21:07:18] [Server thread/INFO]: redyellow3344 left the game
+[21:07:21] [Server thread/INFO]: WiggedSpore2165 lost connection: Disconnected
+[21:07:21] [Server thread/INFO]: WiggedSpore2165 left the game
